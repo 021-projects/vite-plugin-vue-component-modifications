@@ -14,5 +14,13 @@
     "vite": "^4.4.9"
   },
   "author": "021-projects",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/021-projects/vite-plugin-vue-component-modifications#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/021-projects/vite-plugin-vue-component-modifications.git"
+  },
+  "bugs": {
+    "url": "https://github.com/021-projects/vite-plugin-vue-component-modifications/issues"
+  }
 }
