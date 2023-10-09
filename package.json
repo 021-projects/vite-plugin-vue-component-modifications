@@ -1,0 +1,18 @@
+{
+  "name": "vite-plugin-vue-component-modifications",
+  "version": "1.0.0",
+  "description": "A vite plugin for flexible modifications of Vue components and other project files.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.0",
+    "node-html-parser": "^6.1.10",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.9"
+  },
+  "author": "021-projects",
+  "license": "MIT"
+}
