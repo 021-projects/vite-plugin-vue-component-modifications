@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-vue-component-modifications",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A vite plugin for flexible modifications of Vue components and other project files.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
